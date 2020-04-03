@@ -8,5 +8,6 @@ Om du är nyfiken på Currics är handboken också ett bra ställe att lära kä
 
 1. [Företagskultur](/avsnitt/kultur.md)
 1. [Hur vi jobbar](/avsnitt/jobb.md)
+1. [Verktyg vi använder](/avsnitt/tools.md)
 1. [Förmåner](/avsnitt/formaner.md)
 1. [Brand book](/avsnitt/brand.md)
